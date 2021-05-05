@@ -264,10 +264,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7790841012d330740b5ef809f55fd61c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  allColors:
-  - {r: 1, g: 0, b: 0, a: 0}
-  - {r: 0.9810126, g: 1, b: 0, a: 0}
-  - {r: 0, g: 0.29917955, b: 1, a: 0}
+  allColors: []
   allPos:
   - {x: 0, y: 2, z: 0}
   - {x: 1, y: 3, z: 1}
@@ -1038,10 +1035,7 @@ MonoBehaviour:
   - {r: 1, g: 0, b: 0, a: 0}
   - {r: 0.9810126, g: 1, b: 0, a: 0}
   - {r: 0, g: 0.29917955, b: 1, a: 0}
-  allPos:
-  - {x: 0, y: 0, z: 0}
-  - {x: 1, y: 1, z: 1}
-  - {x: 2, y: 2, z: 2}
+  allPos: []
 --- !u!65 &1728175439
 BoxCollider:
   m_ObjectHideFlags: 0
